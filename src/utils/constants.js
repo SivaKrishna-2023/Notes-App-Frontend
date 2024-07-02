@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://notes-app-backend-48t7.onrender.com'
